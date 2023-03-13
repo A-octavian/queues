@@ -1,0 +1,164 @@
+Time 0
+(1,3,2) (2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 1
+(1,3,2) (2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 2
+(1,3,2) (2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 3
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: (1,3,2) 
+Queue 2: -empty-
+
+Time 4
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: (1,3,1) 
+Queue 2: -empty-
+
+Time 5
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 6
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 7
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 8
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 9
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 10
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 11
+(2,12,2) (3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 12
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: (2,12,2) 
+
+Time 13
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: (2,12,1) 
+
+Time 14
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 15
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 16
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 17
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 18
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 19
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 20
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 21
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 22
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 23
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 24
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 25
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 26
+(3,27,3) (4,29,2) 
+Queue 1: -empty-
+Queue 2: -empty-
+
+Time 27
+(4,29,2) 
+Queue 1: (3,27,3) 
+Queue 2: -empty-
+
+Time 28
+(4,29,2) 
+Queue 1: (3,27,2) 
+Queue 2: -empty-
+
+Time 29
+-empty-
+Queue 1: (3,27,1) 
+Queue 2: (4,29,2) 
+
+Time 30
+-empty-
+Queue 1: -empty-
+Queue 2: (4,29,1) 
+
+Time 31
+-empty-
+Queue 1: -empty-
+Queue 2: -empty-
+
+Simulation ended earlier, all clients are done!
+The average service time was 2.25.
+The average waiting time was 1.0.
+The peak hour was at time 27.
